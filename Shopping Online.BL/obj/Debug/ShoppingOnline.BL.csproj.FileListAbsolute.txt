@@ -3,3 +3,8 @@ C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\bin\Debug\Sho
 C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
 C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
 C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb
