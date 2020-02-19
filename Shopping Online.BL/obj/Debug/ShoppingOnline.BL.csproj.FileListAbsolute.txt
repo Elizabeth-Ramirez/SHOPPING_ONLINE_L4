@@ -1,0 +1,5 @@
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb
