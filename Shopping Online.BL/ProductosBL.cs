@@ -8,33 +8,21 @@ namespace Shopping_Online.BL
 {
     public class ProductosBL
     {
-       public  List<Producto> ObtenerProductos()
+        Contexto _contexto;
+        public List<Producto> ListaDeProductos { get; set; }
+
+        public ProductosBL()
         {
-            var producto1 = new Producto();
-            producto1.Id = 1;
-            producto1.Descripcion = "laptop dell";
-            producto1.Precio = 5000;
-         
+            _contexto = new Contexto();
+            ListaDeProductos = new List<Producto>();
+        }
+        public List<Producto> ObtenerProductos()
+        {
+           ListaDeProductos = _contexto.Productos.ToList();
 
-            var producto2 = new Producto();
-            producto2.Id = 2;
-            producto2.Descripcion = "plancha de cabello ";
-            producto2.Precio = 2000;
-          
-
-            var producto3 = new Producto();
-            producto3.Id = 3;
-            producto3.Descripcion = "cdi para carro civic";
-            producto3.Precio = 5000;
            
 
-            var listadeproductos = new List<Producto>();
-
-            listadeproductos.Add(producto1);
-            listadeproductos.Add(producto2);
-            listadeproductos.Add(producto3);
-
-            return listadeproductos;
+            return ListaDeProductos;
         }
     }
 }

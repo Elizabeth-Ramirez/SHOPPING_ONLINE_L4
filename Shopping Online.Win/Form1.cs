@@ -16,17 +16,14 @@ namespace Shopping_Online.Win
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
             var productosBL = new ProductosBL();
             var listadeproductos = productosBL.ObtenerProductos();
+            listaDeProductosBindingSource.DataSource = listadeproductos;
+        }
 
-            foreach (var productos in listadeproductos)
-            {
-                MessageBox.Show(productos.Descripcion);
-            }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

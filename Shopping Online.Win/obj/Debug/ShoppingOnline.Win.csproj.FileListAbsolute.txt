@@ -20,3 +20,7 @@ C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Onlin
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\ShoppingOnline.Win.csproj.GenerateResource.Cache
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping Online.Win.exe
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping Online.Win.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.SqlServer.xml

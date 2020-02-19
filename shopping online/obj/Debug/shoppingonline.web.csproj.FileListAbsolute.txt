@@ -106,3 +106,7 @@ C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping onlin
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\obj\Debug\shoppingonline.web.csprojResolveAssemblyReference.cache
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\obj\Debug\shopping online.dll
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\obj\Debug\shopping online.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\bin\EntityFramework.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\bin\EntityFramework.SqlServer.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\bin\EntityFramework.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\shopping online\bin\EntityFramework.SqlServer.xml

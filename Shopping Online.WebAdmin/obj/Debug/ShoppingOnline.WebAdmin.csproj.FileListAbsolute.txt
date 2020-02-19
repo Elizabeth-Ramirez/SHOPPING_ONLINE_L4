@@ -102,3 +102,8 @@ C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Onlin
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\bin\es\System.Web.Mvc.resources.dll
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\obj\Debug\Shopping Online.WebAdmin.dll
 C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\obj\Debug\Shopping Online.WebAdmin.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\bin\EntityFramework.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\bin\EntityFramework.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.WebAdmin\obj\Debug\ShoppingOnline.WebAdmin.csprojResolveAssemblyReference.cache
