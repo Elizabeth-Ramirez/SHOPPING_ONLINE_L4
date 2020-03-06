@@ -19,7 +19,7 @@ namespace Shopping_Online.BL
         }
         public List<Producto> ObtenerProductos()
         {
-           ListaDeProductos = _contexto.Productos.ToList();
+           ListaDeProductos = _contexto.Productos.Include("Categoria").ToList();
 
            
 
@@ -37,7 +37,13 @@ namespace Shopping_Online.BL
 
                 productoExistente.Descripcion = producto.Descripcion;
                 productoExistente.Precio = producto.Precio;
-            
+                productoExistente.CategoriaId = producto.CategoriaId;
+                if (producto.UrlImagen != null)
+                {
+                    productoExistente.UrlImagen = producto.UrlImagen;
+                }
+
+              
             }
 
           
@@ -46,14 +52,14 @@ namespace Shopping_Online.BL
 
         public Producto ObtenerProducto(int id)
         {
-            var producto = _contexto.Productos.Find(id);
+            var producto = _contexto.Productos.Include("Categoria").FirstOrDefault(p=>p.Id  == id);
             return producto;
         }
         public void EliminarProducto(int id)
         {
             var producto = _contexto.Productos.Find(id);
 
-            _contexto.Productos.Remove(producto);
+            _contexto.Productos.Remove(producto); 
             _contexto.SaveChanges();
         }
     }
