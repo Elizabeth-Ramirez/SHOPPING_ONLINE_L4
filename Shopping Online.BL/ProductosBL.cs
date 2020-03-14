@@ -25,6 +25,16 @@ namespace Shopping_Online.BL
 
             return ListaDeProductos;
         }
+        public List<Producto> ObtenerProductosActivos()
+        {
+            ListaDeProductos = _contexto.Productos
+                .Include("Categoria")
+                .Where(r => r.Activo == true)
+                .OrderBy(r => r.Descripcion)
+                .ToList();
+
+            return ListaDeProductos;
+        }
         public void GuardarProducto(Producto producto)
         {
             if (producto.Id == 0)
